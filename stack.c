@@ -45,4 +45,3 @@ void push(struct stack*ptr,int x){
         ptr->arr[ptr->top]=x;
     }
 }
-
