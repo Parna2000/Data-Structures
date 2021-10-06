@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-// #define max 20
-// #define arr[20]
+
 int main()
 {
     int arr[20];
